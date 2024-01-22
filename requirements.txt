@@ -1,0 +1,9 @@
+fastapi==0.104.0
+uvicorn==0.23.2
+embedchain[opensource]
+beautifulsoup4
+python-dotenv
+lxml
+pypdf2
+pysqlite3-binary
+streamlit==1.29.0
